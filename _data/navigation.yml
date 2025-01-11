@@ -3,3 +3,4 @@ main:
     url: /about/
   - title: "CV"
     url: /cv/
+# order matters on narrow screens
