@@ -17,6 +17,7 @@ A small Jekyll theme for personal academic sites.
 
 Set `publications.enabled` to true to render the publications collection.
 
-## Preview locally
+## Theme options
 
-Run `bundle exec jekyll serve --livereload`.
+- publications.enabled
+- publications.limit
