@@ -10,5 +10,7 @@ author:
   github: "your-handle"
   scholar: ""
 
+bibliography_badge_include: bibtex_badge.html
+
 publications:
   enabled: true
