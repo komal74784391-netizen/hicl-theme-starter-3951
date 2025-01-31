@@ -17,7 +17,6 @@ A small Jekyll theme for personal academic sites.
 
 Set `publications.enabled` to true to render the publications collection.
 
-## Theme options
+## Badge configuration
 
-- publications.enabled
-- publications.limit
+See the theme config for the badge include setting.
