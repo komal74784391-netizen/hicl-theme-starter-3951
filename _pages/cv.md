@@ -12,3 +12,7 @@ author_profile: true
 ## Experience
 
 * Demo position, Demo Institute
+
+## Skills
+
+Demo skills.
