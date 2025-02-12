@@ -14,3 +14,5 @@ bibliography_badge_include: bibtex_badge.html
 
 publications:
   enabled: true
+
+# theme settings below are safe to edit
