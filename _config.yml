@@ -16,3 +16,4 @@ publications:
   enabled: true
 
 # theme settings below are safe to edit
+# keep the include setting aligned with _includes/
