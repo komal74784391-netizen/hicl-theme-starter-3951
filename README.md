@@ -20,3 +20,7 @@ Set `publications.enabled` to true to render the publications collection.
 ## Badge configuration
 
 See the theme config for the badge include setting.
+
+## Status
+
+Build: passing
