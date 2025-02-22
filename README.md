@@ -24,3 +24,7 @@ See the theme config for the badge include setting.
 ## Status
 
 Build: passing
+
+## Contributing
+
+See CONTRIBUTING.md.
