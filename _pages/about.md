@@ -14,3 +14,7 @@ navigation data file.
 ## About the theme
 
 The theme is intentionally minimal and easy to extend.
+
+## Credits
+
+Typography helpers are vendored from Nordwind.
